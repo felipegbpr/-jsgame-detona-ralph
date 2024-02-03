@@ -20,3 +20,6 @@ Game desenvolvido para solidificar conhecimento e prática em HTML, CSS, JS. Est
   2. Abra o arquivo ```index.html``` em seu navegador web. <br/>
   3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.<br/>
   4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+
+## ⚖️ Licença
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
